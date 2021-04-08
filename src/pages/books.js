@@ -56,7 +56,7 @@ const abouttheauthor= (props) =>{
 								<nav className="booklinkBlocks">
 								    <span>Ebook :</span>
 									<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/You-Can-Too-Jonny-Burgess-ebook/dp/B08FPFPZ6N/ref=sr_1_1?dchild=1&keywords=9781648951350&qid=1597777875&sr=8-1">Amazon</a></li>
-									<li><a rel="noopener noreferrer" target="_blank" href="https://www.stratton-press.com/books/you-can-too-how-an-aflac-rookie-built-the-business-in-a-year/">Stratton Press</a></li>
+									{/*<li><a rel="noopener noreferrer" target="_blank" href="https://www.stratton-press.com/books/you-can-too-how-an-aflac-rookie-built-the-business-in-a-year/">Stratton Press</a></li>*/}
 									<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/you-can-too-jonny-burgess/1106465630?ean=9781648951350">Barnes & Noble</a></li>
 								</nav>
 
@@ -107,7 +107,7 @@ const abouttheauthor= (props) =>{
 							<nav className="booklinkBlocks">
 								<span>Ebook :</span>
 								<li><a rel="noopener noreferrer" target="_blank" href="https://www.amazon.com/You-Still-Can-Jonny-Burgess-ebook/dp/B08FPGJ4M5/ref=sr_1_1?dchild=1&keywords=9781648951374&qid=1597777931&sr=8-1">Amazon</a></li>
-								<li><a rel="noopener noreferrer" target="_blank" href="https://www.stratton-press.com/books/you-still-can-too-take-your-aflac-career-to-a-whole-new-level/">Stratton Press</a></li>
+								{/*<li><a rel="noopener noreferrer" target="_blank" href="https://www.stratton-press.com/books/you-still-can-too-take-your-aflac-career-to-a-whole-new-level/">Stratton Press</a></li>*/}
 								<li><a rel="noopener noreferrer" target="_blank" href="https://www.barnesandnoble.com/w/you-still-can-too-jonny-burgess/1137465242?ean=9781648951374">Barnes & Noble</a></li>
 							</nav>
 
